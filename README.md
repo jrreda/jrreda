@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Reda</h1>
-<h3 align="center">A python fanboy, and a passionate Data Scientist from Egypt</h3>
+<h5 align="center">A python fanboy, and a passionate Data Scientist from Egypt</h5>
 
 - 🔭 I’m currently working on **My protoflio website**
 
@@ -18,7 +18,7 @@
   <summary><b>🛠️ Languages &  Tools</b></summary>
   <br/>
 
-  <h3 align="left">Programming Languages:</h3>
+  <h5 align="left">Programming Languages:</h5>
   <p align="left">
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="35"/> </a>
     <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" width="35" height="35"/> </a>
@@ -26,7 +26,7 @@
     <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="35" height="35"/> </a>
   </p>
 
-  <h3 align="left">Data Pre-processing:</h3>
+  <h5 align="left">Data Pre-processing:</h5>
   <p align="left">
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="35" height="35"/> </a>
   <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="35" height="35"/> </a>
@@ -36,7 +36,7 @@
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886635cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="35" height="35"/> </a>
   </p>
 
-  <h3 align="left">Data Visualization:</h3>
+  <h5 align="left">Data Visualization:</h5>
   <p align="left">
     <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="35" height="35"/> </a>
     <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="35" height="35"/> </a>
@@ -45,7 +45,7 @@
     <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="35" height="35"/> </a>
   </p>
 
-  <h3 align="left">AI/ML:</h3>
+  <h5 align="left">AI/ML:</h5>
   <p align="left">
     <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="35" height="35"/> </a>  
     <a href="https://optuna.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/optuna/optuna/master/docs/image/optuna-logo.png" alt="optuna" width="35" height="35"/> </a>  
@@ -55,7 +55,7 @@
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="35" height="35"/> </a>  
   </p>
 
-  <h3 align="left">Database:</h3>
+  <h5 align="left">Database:</h5>
   <p align="left">
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="35" height="35"/> </a>
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="35" height="35"/> </a>
@@ -67,7 +67,7 @@
     <a href="https://aws.amazon.com/redshift/" target="_blank" rel="noreferrer"> <img src="https://static.cdnlogo.com/logos/a/25/aws-redshift.svg" alt="s3" width="35" height="35"/> </a>
   </p>
 
-  <h3 align="left">Devops:</h3>
+  <h5 align="left">Devops:</h5>
   <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://static.cdnlogo.com/logos/a/19/aws.svg" alt="aws" width="35" height="35"/> </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://static.cdnlogo.com/logos/d/41/docker.svg" alt="docker" width="35" height="35"/> </a>
@@ -76,7 +76,7 @@
   </p>
 
 
-  <h3 align="left">Web Development:</h3>
+  <h5 align="left">Web Development:</h5>
   <p align="left">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="35" height="35"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="35" height="35"/> </a>
@@ -85,7 +85,7 @@
   </p>
 
 
-  <h3 align="left">Others:</h3>
+  <h5 align="left">Others:</h5>
   <p align="left">
    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="35" height="35"/> </a>
    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/> </a>
@@ -97,7 +97,7 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
+<h5 align="left">Connect with me:</h5>
 <p align="left">
 <a href="https://twitter.com/jrreda_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jrreda_" height="30" width="35" /></a>
 <a href="https://linkedin.com/in/jrreda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jrreda" height="30" width="35" /></a>
