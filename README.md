@@ -13,9 +13,9 @@
 
 - 📫 How to reach me <a href="mailto:mahmoudreda457@gmail.com" target="blank"><img align="center" src="https://github.com/jrreda/jrreda/blob/main/img/email.svg" alt="selenium" width="25" height="25"/> </a>  <a href="https://twitter.com/jrreda_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jrreda_" height="30" width="25" /></a>  <a href="https://linkedin.com/in/jrreda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jrreda" height="30" width="25" /></a>  <a href="https://stackoverflow.com/users/10674990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10674990" height="30" width="25" /></a>  <a href="https://kaggle.com/jrreda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jrreda" height="30" width="25" /></a>  <a href="https://instagram.com/jrreda_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jrreda_" height="30" width="25" /></a>  <a href="https://open.spotify.com/user/g8uvkkuiph6bcuenv60h5ywqj" target="blank"><img align="center" src="https://github.com/jrreda/jrreda/blob/main/img/spotify.svg" alt="spotify" height="30" width="25" /></a>
 
-<center>
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=g8uvkkuiph6bcuenv60h5ywqj&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=g8uvkkuiph6bcuenv60h5ywqj&redirect=true)
-</center>
+
 
 
 <details>
