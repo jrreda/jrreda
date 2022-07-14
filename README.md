@@ -17,7 +17,6 @@
 <details>
   <summary><b>🛠️ Languages &  Tools</b></summary>
   <br/>
-
   <h5 align="left">Programming Languages:</h5>
   <p align="left">
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="25"/> </a>
@@ -95,13 +94,11 @@
   </p>
  </details>
 
-
- ### 🚀 Quick Stats
+ <details>
+   <summary><b>🚀 Quick Stats</b></summary>
+   <br/>
+ ![Profile Views](https://komarev.com/ghpvc/?username=jrreda)
  <p align="center">
  <img width="450" align="center" src="https://github-readme-stats-defcon27.vercel.app/api?username=jrreda&show_icons=true&line_height=21&theme=react" alt="jrreda's Github Stats" />
- <img width="340" height="155" align="center"
-      src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=jrreda&langs_count=6&hide=handlebars,jupyter notebook,css&theme=react&line_height=27&layout=compact" />
  </p>
-
-
- ![Profile Views](https://komarev.com/ghpvc/?username=jrreda)
+</details>
