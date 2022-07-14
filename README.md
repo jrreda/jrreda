@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Reda</h1>
 <h5 align="center">A python fanboy, and a passionate Data Scientist from Egypt</h5>
 
-- 🔭 I’m currently working on **My protoflio website**
+- 🔭 I’m currently working on **My portfolio website**
 
 - 🌱 I’m currently learning **Deep Learning using Keras via Udacity [DLND]**
 
-- 📖 I’m currently reading **Hands-on Machine Learning *by Geron Aurelien*, Data Science from Scratch *by Joel Grus*, The Art of Feature Engineering *by Pablo Duboue, PhD*.**
+- 📙 I’m currently reading **Hands-on Machine Learning *by Geron Aurelien*, Data Science from Scratch *by Joel Grus*, The Art of Feature Engineering *by Pablo Duboue, PhD*.**
 
-- <img src="https://github.com/jrreda/jrreda/blob/main/img/message.gif" width="25" />&nbsp;&nbsp; Ask me about **Pc building, Movies, or anything**. <br>
+- <img src="https://github.com/jrreda/jrreda/blob/main/img/message.gif" width="25" />&nbsp;&nbsp; Ask me about **Barca, Music, Movies, or anything**. <br>
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1sENWjiWadT-VNDkxCAb-JktHJYNSbt19/view?usp=sharing)
+- 📄 Check out my [Resume](https://drive.google.com/file/d/1sENWjiWadT-VNDkxCAb-JktHJYNSbt19/view?usp=sharing)
 
 - 📫 How to reach me <a href="mailto:mahmoudreda457@gmail.com" target="blank"><img align="center" src="https://github.com/jrreda/jrreda/blob/main/img/email.svg" alt="selenium" width="25" height="25"/> </a>  <a href="https://twitter.com/jrreda_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jrreda_" height="30" width="25" /></a>  <a href="https://linkedin.com/in/jrreda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jrreda" height="30" width="25" /></a>  <a href="https://stackoverflow.com/users/10674990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10674990" height="30" width="25" /></a>  <a href="https://kaggle.com/jrreda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jrreda" height="30" width="25" /></a>  <a href="https://instagram.com/jrreda_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jrreda_" height="30" width="25" /></a>
 
@@ -96,13 +96,12 @@
  </details>
 
 
-<!--
-<h5 align="left">Connect with me:</h5>
-<p align="left">
-<a href="https://twitter.com/jrreda_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jrreda_" height="30" width="25" /></a>
-<a href="https://linkedin.com/in/jrreda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jrreda" height="30" width="25" /></a>
-<a href="https://stackoverflow.com/users/10674990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10674990" height="30" width="25" /></a>
-<a href="https://kaggle.com/jrreda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jrreda" height="30" width="25" /></a>
-<a href="https://instagram.com/jrreda_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jrreda_" height="30" width="25" /></a>
-</p>
--->
+ ### 🚀 Quick Stats
+ <p align="center">
+ <img width="450" align="center" src="https://github-readme-stats-defcon27.vercel.app/api?username=jrreda&show_icons=true&line_height=21&theme=react" alt="jrreda's Github Stats" />
+ <img width="340" height="155" align="center"
+      src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=jrreda&langs_count=6&hide=handlebars,jupyter notebook,css&theme=react&line_height=27&layout=compact" />
+ </p>
+
+
+ ![Profile Views](https://komarev.com/ghpvc/?username=jrreda)
