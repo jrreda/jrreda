@@ -94,11 +94,12 @@
   </p>
  </details>
 
- <details>
+<details>
    <summary><b>🚀 Quick Stats</b></summary>
    <br/>
- ![Profile Views](https://komarev.com/ghpvc/?username=jrreda)
- <p align="center">
- <img width="450" align="center" src="https://github-readme-stats-defcon27.vercel.app/api?username=jrreda&show_icons=true&line_height=21&theme=react" alt="jrreda's Github Stats" />
- </p>
+   <p align="center">
+   <img width="450" align="center" src="https://github-readme-stats-defcon27.vercel.app/api?username=jrreda&show_icons=true&line_height=21&theme=react" alt="jrreda's Github Stats" />
+   </p>
 </details>
+
+![Profile Views](https://komarev.com/ghpvc/?username=jrreda)
