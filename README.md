@@ -55,7 +55,7 @@
     <a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="25" height="25"/> </a>
     <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="25" height="25"/> </a>
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="25" height="25"/> </a>
-    <a href="https://aws.amazon.com/sagemaker/" target="_blank" rel="noreferrer"> <img src="https://github.com/jrreda/jrreda/blob/main/img/sagemaker.png" alt="sagemaker" width="25" height="25"/> </a>  
+    <a href="https://aws.amazon.com/sagemaker/" target="_blank" rel="noreferrer"> <img src="https://github.com/jrreda/jrreda/blob/main/img/sagemaker_logo.png" alt="sagemaker" width="25" height="25"/> </a>  
   </p>
 
   <h5 align="left">Database:</h5>
