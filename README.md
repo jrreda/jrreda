@@ -9,7 +9,7 @@
 
 - <img src="https://github.com/jrreda/jrreda/blob/main/img/message.gif" width="25" />&nbsp;&nbsp; Ask me about **Barca, Music, Movies, or anything**. <br>
 
-- 📄 Check out my [Resume](https://drive.google.com/file/d/1sENWjiWadT-VNDkxCAb-JktHJYNSbt19/view?usp=sharing)
+- 📄 Check out my **[Resume](https://drive.google.com/file/d/1sENWjiWadT-VNDkxCAb-JktHJYNSbt19/view?usp=sharing)**
 
 - 📫 How to reach me <a href="mailto:mahmoudreda457@gmail.com" target="blank"><img align="center" src="https://github.com/jrreda/jrreda/blob/main/img/email.svg" alt="selenium" width="25" height="25"/> </a>  <a href="https://twitter.com/jrreda_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jrreda_" height="30" width="25" /></a>  <a href="https://linkedin.com/in/jrreda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jrreda" height="30" width="25" /></a>  <a href="https://stackoverflow.com/users/10674990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10674990" height="30" width="25" /></a>  <a href="https://kaggle.com/jrreda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jrreda" height="30" width="25" /></a>  <a href="https://instagram.com/jrreda_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jrreda_" height="30" width="25" /></a>  <a href="https://open.spotify.com/user/g8uvkkuiph6bcuenv60h5ywqj" target="blank"><img align="center" src="https://github.com/jrreda/jrreda/blob/main/img/spotify.svg" alt="spotify" height="30" width="25" /></a>
 
@@ -49,12 +49,13 @@
 
   <h5 align="left">AI/ML:</h5>
   <p align="left">
-    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="25" height="25"/> </a>  
-    <a href="https://optuna.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/optuna/optuna/master/docs/image/optuna-logo.png" alt="optuna" width="25" height="25"/> </a>  
-    <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="25" height="25"/> </a>  
-    <a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="25" height="25"/> </a>  
-    <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="25" height="25"/> </a>  
-    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="25" height="25"/> </a>  
+    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="25" height="25"/> </a>
+    <a href="https://optuna.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/optuna/optuna/master/docs/image/optuna-logo.png" alt="optuna" width="25" height="25"/> </a>
+    <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="25" height="25"/> </a>
+    <a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="25" height="25"/> </a>
+    <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="25" height="25"/> </a>
+    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="25" height="25"/> </a>
+    <a href="https://aws.amazon.com/sagemaker/" target="_blank" rel="noreferrer"> <img src="https://github.com/jrreda/jrreda/blob/main/img/sagemaker.png" alt="sagemaker" width="25" height="25"/> </a>  
   </p>
 
   <h5 align="left">Database:</h5>
