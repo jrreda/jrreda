@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Reda</h1>
-<h5 align="center">A python fanboy, and a passionate Data Scientist from Egypt</h5>
+<h5 align="center">A python fanboy, and a passionate Data Scientist</h5>
 
 - 🔭 I’m currently working on **My portfolio website**
 
-- 🌱 I’m currently learning **Deep Learning using Keras via Udacity [DLND]**
+- 🌱 I’m currently learning **[AI Programming with Python Nanodegree via Udacity [AIPND]](https://github.com/jrreda/AIPND-Udacity)**
 
-- 📙 I’m currently reading **Hands-on Machine Learning *by Geron Aurelien*, Data Science from Scratch *by Joel Grus*, The Art of Feature Engineering *by Pablo Duboue, PhD*.**
+- 📙 I’m currently reading **Hands-on Machine Learning *by Geron Aurelien*, Data Science from Scratch *by Joel Grus*, and The Art of Feature Engineering *by Pablo Duboue, PhD*.**
 
 - <img src="https://github.com/jrreda/jrreda/blob/main/img/message.gif" width="25" />&nbsp;&nbsp; Ask me about **Barca, Music, Movies, or anything**. <br>
 
