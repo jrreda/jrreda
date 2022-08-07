@@ -5,7 +5,10 @@
 
 - 🌱 I’m currently learning **[AI Programming with Python Nanodegree via Udacity [AIPND]](https://github.com/jrreda/AIPND-Udacity)**
 
-- 📙 I’m currently reading **Hands-on Machine Learning *by Geron Aurelien*, Data Science from Scratch *by Joel Grus*, and The Art of Feature Engineering *by Pablo Duboue, PhD*.**
+- 📙 I’m currently reading:
+    - Hands-on Machine Learning *by Geron Aurelien*
+    - Data Science from Scratch *by Joel Grus*
+    - The Art of Feature Engineering *by Pablo Duboue, PhD*.
 
 - <img src="https://github.com/jrreda/jrreda/blob/main/img/message.gif" width="25" />&nbsp;&nbsp; Ask me about **Barca, Music, Movies, or anything**. <br>
 
