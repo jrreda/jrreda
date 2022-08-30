@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Reda</h1>
+<h1 align="center">Hi 👋, I'm [Reda](https://www.datascienceportfol.io/jrreda)</h1>
 <h5 align="center">A python fanboy, and a passionate Data Scientist</h5>
 
 - 🔭 I’m currently working on **My portfolio website**
