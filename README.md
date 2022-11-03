@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **My portfolio website**, but I'm using [this](https://www.datascienceportfol.io/jrreda) for now!
 
-- 🌱 I’m currently learning **[Meta Database Engineer Professional Certificate](https://www.coursera.org/professional-certificates/meta-database-engineer)**
+- 🌱 I’m currently learning **[AI Programming with Python via Udacity]([https://www.coursera.org/professional-certificates/meta-database-engineer](https://github.com/jrreda/AIPND-Udacity))**
 
 - 📙 I’m currently reading:
     - Hands-on Machine Learning *by Geron Aurelien*
