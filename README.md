@@ -1,9 +1,9 @@
 <h1 align="center">Hi, it's Reda! 👋</h1>
 <h5 align="center">A python fanboy, and a passionate Data Scientist</h5>
 
-<!-- - 🔭 I’m currently working on **My portfolio website**, but I'm using [this](https://www.datascienceportfol.io/jrreda) for now! -->
+- 🔭 I’m currently working on **My portfolio website**, but I'm using [this](https://www.datascienceportfol.io/jrreda) for now!
 
-- 🌱 I’m currently learning **[AI Programming with Python via Udacity](https://github.com/jrreda/AIPND-Udacity)**
+<!-- - 🌱 I’m currently learning **[AI Programming with Python via Udacity](https://github.com/jrreda/AIPND-Udacity)** -->
 
 - 📙 I’m currently reading:
     - Hands-on Machine Learning *by Geron Aurelien*
