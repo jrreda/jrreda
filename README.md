@@ -103,11 +103,13 @@
  </details>
 
 <details>
-   <summary><b>🚀 Quick Stats</b></summary>
-   <br/>
-   <p align="center">
+   <summary><b>Some Projects</b></summary>
+   - [Streamlit MNIST Digit Recognizer (Drawable) Customizable MLP](https://github.com/jrreda/streamlit-drawable-mnist)
+   
+</details>
+
+<p align="center">
    <img width="450" align="center" src="https://github-readme-stats-defcon27.vercel.app/api?username=jrreda&show_icons=true&line_height=21&theme=react" alt="jrreda's Github Stats" />
    </p>
-</details>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jrreda)
