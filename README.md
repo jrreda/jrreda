@@ -103,7 +103,7 @@
  </details>
 
 <details>
-   <summary><b>Some Projects</b></summary>
+   <summary><b>💻 Some Projects</b></summary>
    - [Streamlit MNIST Digit Recognizer (Drawable) Customizable MLP](https://github.com/jrreda/streamlit-drawable-mnist)
    
 </details>
