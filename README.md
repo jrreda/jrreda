@@ -104,7 +104,10 @@
 
 <details>
    <summary><b>💻 Some Projects</b></summary>
-   - [Streamlit MNIST Digit Recognizer (Drawable) Customizable MLP](https://github.com/jrreda/streamlit-drawable-mnist)
+    <ul>
+    <li><a href="[#](https://github.com/jrreda/streamlit-drawable-mnist)">Streamlit MNIST Digit Recognizer (Drawable) Customizable MLP</a></li>
+<!--     <li><a href="#">Link 2</a></li> -->
+    </ul>
    
 </details>
 
