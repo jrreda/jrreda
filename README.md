@@ -105,7 +105,7 @@
 <details>
    <summary><b>💻 Some Projects</b></summary>
     <ul>
-    <li><a href="[#](https://github.com/jrreda/streamlit-drawable-mnist)">Streamlit MNIST Digit Recognizer (Drawable) Customizable MLP</a></li>
+    <li><a href="https://github.com/jrreda/streamlit-drawable-mnist">Streamlit MNIST Digit Recognizer (Drawable) Customizable MLP</a></li>
 <!--     <li><a href="#">Link 2</a></li> -->
     </ul>
    
