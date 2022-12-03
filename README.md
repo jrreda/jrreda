@@ -105,8 +105,8 @@
 <details>
    <summary><b>💻 Some Projects</b></summary>
     <ul>
-    <li><a href="https://github.com/jrreda/streamlit-drawable-mnist">Streamlit MNIST Digit Recognizer (Drawable) Customizable MLP</a></li>
-<!--     <li><a href="#">Link 2</a></li> -->
+    <li><a href="https://github.com/jrreda/streamlit-drawable-mnist">Keras + Streamlit MNIST Digit Recognizer (Drawable) Customizable MLP</a></li>
+    <li><a href="https://github.com/jrreda/streamlit-neural-style-transfer">PyTorch Fast Neural Style Transfer 🎨 </a></li>
     </ul>
    
 </details>
