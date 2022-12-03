@@ -106,7 +106,10 @@
    <summary><b>💻 Some Projects</b></summary>
     <ul>
     <li><a href="https://github.com/jrreda/streamlit-drawable-mnist">Keras + Streamlit MNIST Digit Recognizer (Drawable) Customizable MLP</a></li>
-    <li><a href="https://github.com/jrreda/streamlit-neural-style-transfer">PyTorch Fast Neural Style Transfer 🎨 </a></li>
+    <li><a href="https://github.com/jrreda/streamlit-neural-style-transfer">PyTorch Fast Neural Style Transfer 🎨</a></li>
+        
+<!-- MLND -->
+    <li><a href="https://github.com/jrreda/Udacity/tree/master/MLND">IMDB Sentiment Analysis AWS Web App</a></li>
     </ul>
    
 </details>
