@@ -111,6 +111,9 @@
     <li><a href="https://github.com/jrreda/Udacity/tree/master/MLND">US flights performance in the first half of 2020 Analysis using Tableau ✨</a></li>  <!-- DAND -->
     <li><a href="https://github.com/jrreda/AIPND-Udacity/tree/main/Project%2001%20-%20Use%20a%20Pre-trained%20Image%20Classifier%20to%20Identify%20Dog%20Breeds">Use a Pre-trained Image Classifier to Identify Dog Breeds</a></li>  <!-- AIND -->
     <li><a href="https://github.com/jrreda/AIPND-Udacity/tree/main/Project%2002%20-%20Create%20your%20own%20classifier">Developing an AI application - Flowers Recognition</a></li>  <!-- AIND -->
+    <li><a href="https://github.com/jrreda/Udacity/tree/master/DSND/02%20-%20Supervised%20Learning/10_Finding%20Donors%20Project">Project: Finding Donors for CharityML</a></li>  <!-- DSND -->
+    <li><a href="https://github.com/jrreda/Udacity/tree/master/DSND/04%20-%20Unsupervised%20Learning/06_Identify%20Customer%20Segments%20PROJECT">Identify Customer Segments</a></li>  <!-- DSND -->
+    <li><a href="https://github.com/jrreda/Udacity/tree/master/DSND/05%20-%20Software%20Engineering/5-%20Web%20Development/Advanced%20Data%20Dashboard%20Code/world_bank_api_dashboard">World Bank API Data Dashboard</a></li>  <!-- DSND -->
     </ul>
     
    
