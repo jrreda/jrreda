@@ -114,6 +114,7 @@
     <li><a href="https://github.com/jrreda/Udacity/tree/master/DSND/02%20-%20Supervised%20Learning/10_Finding%20Donors%20Project">Project: Finding Donors for CharityML</a></li>  <!-- DSND -->
     <li><a href="https://github.com/jrreda/Udacity/tree/master/DSND/04%20-%20Unsupervised%20Learning/06_Identify%20Customer%20Segments%20PROJECT">Identify Customer Segments</a></li>  <!-- DSND -->
     <li><a href="https://github.com/jrreda/Udacity/tree/master/DSND/05%20-%20Software%20Engineering/5-%20Web%20Development/Advanced%20Data%20Dashboard%20Code/world_bank_api_dashboard">World Bank API Data Dashboard</a></li>  <!-- DSND -->
+    <li><a href="https://github.com/jrreda/Scrapping/blob/main/Sentiment_Analysis_with_BERT.ipynb">scraping yelp.com & perform sentiment analysis with BERT</a></li>
     </ul>
     
    
