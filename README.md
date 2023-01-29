@@ -7,8 +7,11 @@
 
 - 📙 I’m currently reading:
     - Hands-on Machine Learning *by Geron Aurelien*
-    - Practical Statistics for Data Scientists *by Peter Bruce, Andrew Bruce & Peter Gedeck*
-    - Deep Learning with Python *by François Chollet*
+    - Practical Natural Language Processing: A Comprehensive Guide to Building Real-world NLP systems *by Sowmya V, Bodhisattwa Majumder, Anuj Gupta, Harshit Surana*
+    - Natural Language Processing with Transformers: Building Language Applications with Hugging Face *by Lewis Tunstall, Leandro von Werra, Thomas Wolf*
+    - Deep Learning with PyTorch *by Eli Stevens, Luca Antiga*
+    - Django for Beginners: Build Websites with Python and Django *by William S. Vincent*
+    - Data Engineering with Python: Work with massive datasets to design data models and automate data pipelines using Python *by Paul Crickard*
 
 - <img src="https://github.com/jrreda/jrreda/blob/main/img/message.gif" width="25" />&nbsp;&nbsp; Ask me about **Barca, Music, Movies, or anything**. <br>
 
