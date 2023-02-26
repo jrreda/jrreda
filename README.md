@@ -10,12 +10,12 @@
     - Practical Natural Language Processing: A Comprehensive Guide to Building Real-world NLP systems *by Sowmya V, Bodhisattwa Majumder, Anuj Gupta, Harshit Surana*
     - Natural Language Processing with Transformers: Building Language Applications with Hugging Face *by Lewis Tunstall, Leandro von Werra, Thomas Wolf*
     - Deep Learning with PyTorch *by Eli Stevens, Luca Antiga*
-    - Django for Beginners: Build Websites with Python and Django *by William S. Vincent*
+    - Django for professionals: production websites with python & django *by William S. Vincent*
     - Data Engineering with Python: Work with massive datasets to design data models and automate data pipelines using Python *by Paul Crickard*
 
 - <img src="https://github.com/jrreda/jrreda/blob/main/img/message.gif" width="25" />&nbsp;&nbsp; Ask me about **Barca, Music, Movies, or anything**. <br>
 
-- 📄 Check out my **[Resume](https://drive.google.com/file/d/13pX2ezwWPUQ0jiPH_P-_Ru2cHn7yS5W4/view?usp=sharing)**
+- 📄 Check out my **[Resume](https://drive.google.com/file/d/1b0upzA3NTebcck4SOiOiqkkWiwoBPFEW/view?usp=sharing)**
 
 - 📫 Reach me out <a href="mailto:mahmoudreda457@gmail.com" target="blank"><img align="center" src="https://github.com/jrreda/jrreda/blob/main/img/email.svg" alt="selenium" width="25" height="25"/> </a>  <a href="https://twitter.com/jrreda_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jrreda_" height="30" width="25" /></a>  <a href="https://linkedin.com/in/jrreda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jrreda" height="30" width="25" /></a>  <a href="https://stackoverflow.com/users/10674990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10674990" height="30" width="25" /></a>  <a href="https://kaggle.com/jrreda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jrreda" height="30" width="25" /></a>  <a href="https://open.spotify.com/user/g8uvkkuiph6bcuenv60h5ywqj" target="blank"><img align="center" src="https://github.com/jrreda/jrreda/blob/main/img/spotify.svg" alt="spotify" height="30" width="25" /></a>  <a href="https://www.goodreads.com/user/show/60436577" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Goodreads_logo_-_SuperTinyIcons.svg" alt="goodreads" height="30" width="25" /></a>
 
