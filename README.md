@@ -13,7 +13,7 @@
     - Django for professionals: production websites with python & django *by William S. Vincent*
     - Data Engineering with Python: Work with massive datasets to design data models and automate data pipelines using Python *by Paul Crickard*
 
-- <img src="https://github.com/jrreda/jrreda/blob/main/img/message.gif" width="25" />&nbsp;&nbsp; Ask me about **Barca, Music, Movies, or anything**. <br>
+- <img src="https://github.com/jrreda/jrreda/blob/main/img/message.gif" width="25" />&nbsp;&nbsp; Ask me about **AI, Barca, Music, Movies, or anything**. <br>
 
 - 📄 Check out my **[Resume](https://drive.google.com/file/d/1g2wXA7jKade_PQln2FGDpgKCf81N_ysJ/view?usp=sharing)**
 
