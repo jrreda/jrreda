@@ -10,8 +10,7 @@
     - Practical Natural Language Processing: A Comprehensive Guide to Building Real-world NLP systems *by Sowmya V, Bodhisattwa Majumder, Anuj Gupta, Harshit Surana*
     - Natural Language Processing with Transformers: Building Language Applications with Hugging Face *by Lewis Tunstall, Leandro von Werra, Thomas Wolf*
     - Deep Learning with PyTorch *by Eli Stevens, Luca Antiga*
-    - Django for professionals: production websites with python & django *by William S. Vincent*
-    - Data Engineering with Python: Work with massive datasets to design data models and automate data pipelines using Python *by Paul Crickard*
+    - Django 4 By Example: Build powerful and reliable Python web applications from scratch *by Antonio Mele*
 
 - <img src="https://github.com/jrreda/jrreda/blob/main/img/message.gif" width="25" />&nbsp;&nbsp; Ask me about **AI, Barca, Music, Movies, or anything**. <br>
 
