@@ -4,6 +4,7 @@
 - 🔭 I’m currently working on **My portfolio website**, but I'm using [this](https://www.datascienceportfol.io/jrreda) for now!
 
 <!-- - 🌱 I’m currently learning **[AI Programming with Python via Udacity](https://github.com/jrreda/AIPND-Udacity)** -->
+- 🧑🏼‍🎓 I'm currently learning **[The Frontend Developer Career Path](https://scrimba.com/the-frontend-developer-career-path-c0j/)** at **Scrimba**.
 
 - 📙 I’m currently reading:
     - Hands-on Machine Learning *by Geron Aurelien*
