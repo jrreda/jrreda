@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Reda</h1>
-<h3 align="center">Frontend engineer building multi-tenant e-commerce with React, Next.js and TypeScript</h3>
+<h3 align="center">Frontend engineer building apps with React, Next.js and TypeScript</h3>
 
 <p align="center">
   <a href="https://jrreda.vercel.app">
