@@ -36,13 +36,13 @@
 **Frontend**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,astro,tailwind,sass" alt="TypeScript, JavaScript, React, Next.js, Angular, Astro, Tailwind CSS, Sass" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,astro,redux,tailwind,sass" alt="TypeScript, JavaScript, React, Next.js, Angular, Astro, Redux, Tailwind CSS, Sass" />
 </p>
 
-**Backend and mobile**
+**Backend**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,java,spring,python,django,flutter,dart" alt="Node.js, PHP, Laravel, Java, Spring Boot, Python, Django, Flutter, Dart" />
+  <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,python,django" alt="Node.js, PHP, Laravel, Python, Django" />
 </p>
 
 **Data**
